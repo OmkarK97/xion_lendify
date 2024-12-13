@@ -38,7 +38,7 @@ export default function Page() {
               Simple, Smart, and Trusted Way to Invest in Crypto
             </h1>
             <p className="text-gray-400 max-w-[600px] text-lg font-bold">
-              If you&apos;re interested in investing in Mantra but have been put off by the complexity of purchasing and storing digital assets yourself, we&apos;ve made it simple for you.
+              If you&apos;re interested in investing in XION but have been put off by the complexity of purchasing and storing digital assets yourself, we&apos;ve made it simple for you.
             </p>
           </div>
           <div className="relative h-[300px] lg:h-[400px]">
