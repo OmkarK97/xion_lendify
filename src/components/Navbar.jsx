@@ -17,7 +17,7 @@ const Navbar = () => {
             height={40}
             alt="Vaultify Logo"
           />
-          <span className="text-2xl font-semibold text-white">Vaultify</span>
+          <span className="text-2xl font-semibold text-white">XVAULT</span>
         </a>
 
         <nav className="hidden md:flex space-x-6">
